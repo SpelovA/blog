@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:SpelovA/SpelovA.git.io.git
+	branch = main
